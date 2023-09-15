@@ -78,11 +78,10 @@ endmodule
 ## RTL realization
 ## Output:
 ## RTL:
-![op](rtl.jpg)
-## truth table
-![op](tt.jpg)
-## waveform
-![op](wave.jpg)
-
-### Result:
+![rtl](https://github.com/LokeshRajamani/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120544804/e61c516e-19dc-4483-a815-c14c8e060c2d)
+## truth table:
+![tt](https://github.com/LokeshRajamani/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120544804/af101657-9391-48ad-842d-0ff1b2506021)
+## waveform:
+![wave](https://github.com/LokeshRajamani/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120544804/c02eb6a8-9f03-4a05-9545-a6455cf0f405)
+## RESULT:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
