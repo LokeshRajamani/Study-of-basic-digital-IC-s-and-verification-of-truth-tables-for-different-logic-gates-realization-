@@ -74,8 +74,6 @@ xor(y7,a,b);
 xnor(y8,a,b);
 endmodule
 ```
-## Logic symbol & Truthtable
-## RTL realization
 ## Output:
 ## RTL:
 ![rtl](https://github.com/LokeshRajamani/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120544804/e61c516e-19dc-4483-a815-c14c8e060c2d)
